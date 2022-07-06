@@ -32,7 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 /src/main/resources/application.properties
-/src/test/java/com/example/lbdspringproject/LbdSpringProjectApplicationTests.java
 /.mvn/wrapper/maven-wrapper.jar
 /.mvn/wrapper/maven-wrapper.properties
 /mvnw
